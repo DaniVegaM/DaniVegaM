@@ -14,4 +14,8 @@
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,laravel,react,mongodb&perline=10)](https://skillicons.dev)
 
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniVegaM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
