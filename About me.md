@@ -16,6 +16,12 @@
 
 <br>
 
+## Languages I've been primarily using
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniVegaM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://www.facebook.com/danivegaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@danielvegaam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/danielvegaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danielvegaam" height="30" width="40" /></a>
+
 
 
