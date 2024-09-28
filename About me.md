@@ -6,4 +6,5 @@
 <br>
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<h2>Frontend</h2>
+[![My Skills](https://skillicons.dev/icons?i=,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
